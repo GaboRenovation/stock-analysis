@@ -9,6 +9,7 @@ This new file was created based on the StockAnalysis file previously loaded.
 ### 1.1 About the Loops
 In the previous excercises, the macro's were reading several times the data in the spreadsheet, this was much more like iterations reading and reading again but looking for different information.
 Based on the advisement and some lectures in the web, it was possible to simplify the code avoiding copying the same lines 12 times to get the results of 12 stock tickers.
+![alt text](./Loops.png)
 
 ### 1.2 Challenges
 The information we were using during the course was very helpful. However, at financial information level there is something that created some noise in the information analysis.
