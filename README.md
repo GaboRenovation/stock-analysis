@@ -44,3 +44,10 @@ These were the results under the premise that I used column 3 (C) which is Open,
 The code in the green_stocks file yes is bigger, but has the ability to look at the whole spreadsheet looking for a registy without any restrictions beyond the column or matrix declared. In the other hand (as discussed during the sessions), the simplfied code considers that the data is already grouped and in sequence, making the analysis faster. So, the challenge for the simpified code is the ability to look and gather data when there is no order or sequence in the spreadsheet.
 A cleaning might be required, or an improved code for those cases.
 
+### 2.2 About the times of execution
+There are many points to review and work on this topic.
+Yes, the code is a little bit faster. In this case the data is not that big and the difference are just 1 or 2 seconds. 
+The interesting point comes when we have a huge file to analyse and the simplified code is a must.
+The most important test is the very first. The second analysis seems to remain in memory and the times vary a lot.
+![alt text](./VBA_Challenge_2017.png)
+![alt text](./VBA_Challenge_2018.png)
