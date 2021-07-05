@@ -16,7 +16,7 @@ The information we were using during the course was very helpful. However, at fi
 We use "Open" to represent the StartingPrice, so the column 3 or C in 2017 and 2018 are used.
 We use "Close" to represents the EndingPrice, so the column 6 or F in 2017 and 2018 are used.
 That's why the final Return is not the same as the Bootcamp instructions.
-Pointing to the same column (H or 8) in both cases (starting and ending prices) would have the same results as the bootcamp instructions. This was discovered during the course.
+Pointing to the same column (6 or F) in both cases (starting and ending prices) would have the same results as the bootcamp instructions. This was discovered during the course.
 ![alt text](./financial_information_purposes.png)
 
 
