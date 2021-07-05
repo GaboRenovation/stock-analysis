@@ -32,7 +32,7 @@ Formatting the cells by the code might not be a good idea as it takes longer to 
 The amount of data was not huge. We are using a matrix of 3k,8  so, we consider it as a light spreadsheet.
 Even though, by adding a white background, titles in colors, etc. made the code slower by about 4 times.
 So the recomendation is to format data using Excel capabilities after gathering all the results.
-![alt text](./Formating.png)
+![alt text](./Formatting.png)
 
 These were the results under the premise that I used column 3 (C) which is Open, for the StartingPrices. And that I used column 6 (F) which is Close, for the EndingPrices.
 ![alt text](./2018.png)
